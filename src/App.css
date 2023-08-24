@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:system-ui,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro-text{
+  font-size: 1.2em;
+  font-weight: bolder;
+}
+.card-title{
+  font-weight: bolder;
+}
+.card-discription{
+  font-weight: bolder;
+}
+
+@media screen and (min-width: 576px) {
+  .intro-text{
+    font-size: 1.8em;
+    font-weight: bolder;
+  }
+}
+@media screen and (min-width: 992px){
+  .intro-text{
+    font-size: 3em;
+    font-weight: bolder;
+  }
+}
