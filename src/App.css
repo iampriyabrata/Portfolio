@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family:system-ui,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:monospace, system-ui,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .intro-text{

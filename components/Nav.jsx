@@ -19,7 +19,7 @@ const Nav = () => {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <ul class="navbar-nav fw-bold  container-fluid d-flex justify-content-end gx-5">
+          <ul class="navbar-nav fw-bold  container-fluid d-flex justify-content-end gx-5 ">
             <li class="nav-item" aria-current="page">
               <a class="nav-link " href="#">
                 Projects
