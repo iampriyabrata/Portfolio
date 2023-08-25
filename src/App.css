@@ -9,6 +9,9 @@
   font-size: 1.2em;
   font-weight: bolder;
 }
+.intro-description{
+  font-size: 0.5rem;
+}
 .card-title{
   font-weight: bolder;
 }
@@ -21,10 +24,16 @@
     font-size: 1.8em;
     font-weight: bolder;
   }
+  .intro-description{
+    font-size: 0.8rem;
+  }
 }
 @media screen and (min-width: 992px){
   .intro-text{
     font-size: 3em;
     font-weight: bolder;
+  }
+  .intro-description{
+    font-size: 0.9rem;
   }
 }
